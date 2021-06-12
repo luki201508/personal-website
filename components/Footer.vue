@@ -1,0 +1,16 @@
+<template>
+  <div
+    class="
+      w-full
+      h-20
+      bg-gray-50
+      dark:bg-gray-800
+      flex
+      justify-center
+      z-50
+      shadow-inner
+    "
+  >
+    footer
+  </div>
+</template>
